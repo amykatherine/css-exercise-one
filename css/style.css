@@ -3,15 +3,17 @@ body {
 }
 
 nav {
-  background color: yellow;
+  background-color: yellow;
   height: 100px;
   margin-top: -10px;
   position: fixed;
   width: 100%;
+  top: 0;
 }
 
 section {
   margin: 0 auto;
+  margin-top: 107px;
   width: 60%;
 }
 
